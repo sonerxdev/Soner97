@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soner</h1>
-<h3 align="center">A mobile developer from Turkey. Bachelor's degree software engineering.. Coding flutter since 1.5 years. Also working on Native Android 2 months.</h3>
+<h3 align="center">A mobile developer from Turkey. Bachelor's degree software engineering. Coding flutter since 1.5 years. Also working on Native Android 2 months.</h3>
 
 - 🌱 I’m currently learning **Kotlin, Android**
 
 - 💬 Ask me about **flutter, dart, firebase, android, material design**
 
-- 📫 How to reach me **sonerkaraevli@gmail.com**
+- 📫 Reach me **sonerkaraevli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
