@@ -2,9 +2,9 @@
 <img src = "https://user-images.githubusercontent.com/51439795/131893543-3b936945-f7e6-4c64-860b-7ed663ad8478.gif" width=800 >
 <h3 align="center">A mobile developer from Turkey. Bachelor's degree software engineering. Coding flutter since 2 years.</h3>
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning iOS development
 
-- 💬 Ask me about **flutter, dart, firebase, android, material design**
+- 💬 Ask me about **flutter, dart, firebase**
 
 - 📫 Reach me **sonerkaraevli@gmail.com**
 
